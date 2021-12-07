@@ -16,7 +16,7 @@ Java application to visualize different sorting and searching algorithms.
 
 </br>
 </br>
-<b>Note: More algorithms will be added as I learn them :p<b>
+<b>Note: More algorithms will be added in the future.<b>
 
   
   
